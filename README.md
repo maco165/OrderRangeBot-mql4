@@ -11,4 +11,4 @@ https://docs.google.com/document/d/1Vy37y0kp4rTJQvIx1g9ysEGJcsU7uOhHUXsLtOyJcxY/
 
 
 ## LICENCE
-このリポジトリのコードを製作者(@macochilol)の許可なく使用・公開することを一切禁止します。
+このリポジトリのコードを製作者(@maco165)の許可なく使用・公開することを一切禁止します。
